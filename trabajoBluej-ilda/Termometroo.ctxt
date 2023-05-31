@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Termometroo
+comment0.text=\r\n\ termometroo\r\n\ \r\n\ @author\ (Casilda)\ \r\n\ @version\ (202202590)\r\n
+comment1.params=
+comment1.target=Termometroo()
+comment2.params=temperaturaObjeto
+comment2.target=void\ leerTemperatura(double)
+comment3.params=
+comment3.target=double\ decirTemperatura()
+comment4.params=
+comment4.target=void\ cambiarModo()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6

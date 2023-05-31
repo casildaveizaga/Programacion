@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TanqueAgua
+comment0.text=\r\n\ TanqueAgua\r\n\ \r\n\ @author\ Casilda\ Veizaga\ \r\n\ @version\ 20220419\r\n
+comment1.params=
+comment1.target=TanqueAgua()
+comment2.params=cantidad
+comment2.target=void\ ponerCantidad(int)
+comment3.params=totalmente
+comment3.target=void\ llenarTanque(int)
+comment4.params=totalmente
+comment4.target=void\ vaciarTanque(int)
+comment5.params=agua
+comment5.target=void\ ingresarAgua(double)
+numComments=6

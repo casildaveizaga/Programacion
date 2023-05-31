@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Auto
+comment0.text=\r\n\ Auto\r\n\r\n\ @author\ Vladimir\ Costas\r\n\ @version\ 20220322\ vcj\ \ \r\n
+comment1.params=costo\ suColor
+comment1.target=Auto(double,\ java.lang.String)
+comment2.params=nuevoPrecio
+comment2.target=void\ cambiarPrecio(double)
+comment3.params=
+comment3.target=double\ precio()
+comment4.params=
+comment4.target=java.lang.String\ color()
+numComments=5

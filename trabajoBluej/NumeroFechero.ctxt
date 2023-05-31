@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NumeroFechero
+comment0.text=\r\n\ NumeroFechero\r\n\r\n\ @author\ Casilda\ Veizaga\ Choque\r\n\ @version\ 20220418\r\n
+comment1.params=
+comment1.target=NumeroFechero()
+comment2.params=valorInicial
+comment2.target=NumeroFechero(int)
+comment3.params=
+comment3.target=int\ valor()
+comment4.params=
+comment4.target=void\ incrementar()
+comment5.params=
+comment5.target=void\ decrementar()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Problema1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Problema1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dato1\ dato2
+comment1.target=Problema1(int,\ int)
+comment2.params=
+comment2.target=int\ decirElValor1()
+comment3.params=
+comment3.target=int\ decirElValor2()
+comment4.params=
+comment4.target=void\ intercambioDeValores()
+numComments=5

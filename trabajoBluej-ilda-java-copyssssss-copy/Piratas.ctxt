@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Piratas
+comment0.text=\r\n\ Pirata\r\n\ \r\n\ @author\ Casilda\ \r\n\ @version\ 202202590\r\n
+comment1.params=numLiberarSaqueadores\ numBusquedaDesaparesidos\ numRecoletarAlimentos
+comment1.target=Piratas(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ calcularEsfuerzo()
+comment3.params=
+comment3.target=boolean\ lanzarMoneda()
+comment4.params=
+comment4.target=int\ lanzarDado()
+comment5.params=
+comment5.target=void\ calcularGanancias()
+comment6.params=
+comment6.target=void\ agregarNuevoMiembro()
+comment7.params=
+comment7.target=void\ misionAlazar()
+comment8.params=
+comment8.target=void\ calcularRiesgo()
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Termometro
+comment0.text=\r\n\ Termometro\ digital.\r\n\r\n\ @author\ Vladimir\ Costas\r\n\ @version\ 20220329\ vcj\r\n
+comment1.params=
+comment1.target=Termometro()
+comment2.params=temperaturaObjeto
+comment2.target=void\ leerTemperatura(double)
+comment3.params=temperatura
+comment3.target=void\ leerTemperatura2(double)
+comment4.params=
+comment4.target=double\ decirTemperatura()
+comment5.params=
+comment5.target=double\ decirTemperaturaFahrenheit()
+numComments=6
